@@ -26,6 +26,18 @@
 ``` scrape_ufc_stats_working_example.ipynb ```
 - shows how the previous scripts and notebooks work with small examples
 
+To re-scrape all files, run ``` scrape_ufc_stats_all_historical_data.ipynb ``` and ``` scrape_ufc_stats_fighter_tott.ipynb ```.
+
+Data for all events, fights, and fighters have scraped and saved as the following data files:
+```
+ufc_events.csv
+ufc_fight_details.csv
+ufc_fight_results.csv
+ufc_fight_stats.csv
+ufc_fighter_details.csv
+ufc_fighter_tott.csv
+```
+
 ``` scrape_fight_matrix.ipynb ```
 - scrapes fightmatrix for ranks
 - outputs figher ranks at specific dates at their weight class at that moment in time
