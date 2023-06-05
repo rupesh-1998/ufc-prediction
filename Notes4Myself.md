@@ -30,7 +30,7 @@ To re-scrape all files, run ``` scrape_ufc_stats_all_historical_data.ipynb ``` a
 
 Data for all events, fights, and fighters have scraped and saved as the following data files:
 ```
-ufc_events.csv
+ufc_event_details.csv
 ufc_fight_details.csv
 ufc_fight_results.csv
 ufc_fight_stats.csv
