@@ -38,9 +38,10 @@ ufc_fighter_details.csv
 ufc_fighter_tott.csv
 ```
 
+``` fm_fighter_details.ipynb ```
+- return a csv file with all fighters from fighter details and their urls in fight matrix for 'scrape_fight_matrix.ipynb' to use
+
 ``` scrape_fight_matrix.ipynb ```
 - scrapes fightmatrix for ranks
 - outputs figher ranks at specific dates at their weight class at that moment in time
 
-``` fm_fighter_details.ipynb ```
-- return a csv file with all fighters from fighter details and their urls in fight matrix for 'scrape_fight_matrix.ipynb' to use
